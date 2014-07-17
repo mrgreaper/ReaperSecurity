@@ -23,7 +23,7 @@ import net.minecraftforge.common.MinecraftForge;
 
 @Mod(modid = Reference.MODID, name = Reference.MOD_NAME, version = Reference.VERSION, guiFactory = Reference.GUI_FACTORY_CLASS)
 
-public class ReaperSecurity {
+public class ReaperSecurity { //
 
     public static CreativeTabs ReaperSecurity;
     @Mod.Instance(Reference.MODID)

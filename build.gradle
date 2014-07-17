@@ -22,7 +22,7 @@ group = "com.mrgreaper.reapersecurity" // http://maven.apache.org/guides/mini/gu
 archivesBaseName = "ReperSecurity"
 
 minecraft {
-    version = "1.7.10-10.13.0.1180"
+    version = "1.7.10-10.13.0.1185"
     assetDir = "eclipse/assets"
 }
 
